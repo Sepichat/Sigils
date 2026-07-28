@@ -19,7 +19,7 @@ Germany
 **Contact Information:**  
 Email: realnomnomkitty+support-sigils@gmail.com  
 Telephone: +4915565882907  
-Website: https://realnomnomkitty.github.io/sigils/
+Website: https://sepichat.github.io/sigils/
 
 **Person Responsible for Content (Pursuant to § 18 Abs. 2 MStV):**  
 Richard KOZUBAL  
@@ -116,7 +116,7 @@ Deutschland
 **Kontakt:**  
 E-Mail: realnomnomkitty+support-sigils@gmail.com  
 Telefon: +4915565882907  
-Website: https://realnomnomkitty.github.io/sigils/
+Website: https://sepichat.github.io/sigils/
 
 **Inhaltlich Verantwortlicher gemäß § 18 Abs. 2 MStV:**  
 Richard KOZUBAL  
